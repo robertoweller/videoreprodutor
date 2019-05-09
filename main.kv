@@ -1,0 +1,17 @@
+<tela>:
+	orientation: 'vertical'
+	Button:
+		id:bot
+		text:'Aperte'
+		font_size:30
+		on_release: lab.text = str(int(lab.text)+1)
+		on_release: bot.text = 'Aperte mais uma vez para adiciona mais 1'
+	Label:
+		id: lab
+		text:'1'
+		font_size:30
+	VideoPlayer:
+		source: '/home/roberto/Vídeos/Re:Zero_Kara_Hajimeru Isekai_Seikatsu_Dublado_16.mp4'
+
+
+#		source: '/home/roberto/Vídeos/Re:Zero_Kara_Hajimeru Isekai_Seikatsu_Dublado_16.mp4'
