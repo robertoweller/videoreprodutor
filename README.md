@@ -1,5 +1,5 @@
 Essa reprodutor é para testa basico em kivy, meu objetivo é fazer um reprodutor de forma diferente
-fazer um reprodutor onde possa acessar na nuvem o video. Contudo é projeto de estudo agradeço desde
+fazer um reprodutor onde possa acessar na nuvem o video. Com tudo é um projeto de estudo agradeço desde
 já quem me ajudar.
 
 Comandos como usar git:
