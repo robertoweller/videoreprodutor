@@ -11,5 +11,5 @@ class rodaVideo(App):
 		return self.video # Retorna 'chama' o video e a variavel que contem a class VideoPlayer()
 
 if __name__ == '__main__':
-	# Da o estart no app, roda a bagaça, pelo app retornar o video carrega o priprio
+	# Da o estart no app, começa o loop.
 	rodaVideo().run() 
