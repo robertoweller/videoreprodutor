@@ -1,5 +1,5 @@
 import kivy
-kivy.require('1.9.0')
+kivy.require('1.10.1')
 from kivy.uix.videoplayer import VideoPlayer
 from kivy.app import App
 
