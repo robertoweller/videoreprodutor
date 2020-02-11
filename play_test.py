@@ -5,6 +5,7 @@ from kivy.app import App
 
 class rodaVideo(App):
 	def build(self):
+		# precisa ser estudado mais essa classe, mas gostie muito.
 		# Carrega o local do video e carrega a classe video 
 		self.video = VideoPlayer(source = 'lind-musi-anime.mp4')
 
